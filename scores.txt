@@ -1,0 +1,7 @@
+Name,Math,Science,History,Literature,Tech,ComputerScience
+Alice,85,90,78,98,85,80
+Bob,92,78,85,78,80,81
+Caroline,78,92,88,83,92,88
+David,88,82,90,78,79,94
+Eve,95,88,75,90,90,80
+Vlad,100,100,100,100,100,100
